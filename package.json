@@ -1,0 +1,19 @@
+{
+  "name": "cornerstonelabs-servermonitor-client",
+  "version": "1.0.0",
+  "description": "Server monitor client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CornerstoneLabs/servermonitor-client.git"
+  },
+  "author": "Cornerstone Labs Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CornerstoneLabs/servermonitor-client/issues"
+  },
+  "homepage": "https://github.com/CornerstoneLabs/servermonitor-client#readme"
+}
