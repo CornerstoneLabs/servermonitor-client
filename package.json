@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CornerstoneLabs/servermonitor-client/issues"
   },
-  "homepage": "https://github.com/CornerstoneLabs/servermonitor-client#readme"
+  "homepage": "https://github.com/CornerstoneLabs/servermonitor-client#readme",
+  "dependencies": {
+    "socket.io-client": "^1.4.8"
+  }
 }
